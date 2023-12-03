@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Abdus Salam</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React.js, Bootstrap, Node.js**
+- 🌱 I’m currently learning **Next.js,React.js**
 
 - 👨‍💻 All of my projects are available at [https://personalprotfoliosalam.netlify.app/](https://personalprotfoliosalam.netlify.app/)
 
